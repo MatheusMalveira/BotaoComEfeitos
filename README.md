@@ -1,2 +1,2 @@
-# BotaoComEfeitos
-Trabalho Botão com efeitos
+# BotaoComEfeito
+Botão com efeito
